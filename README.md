@@ -11,4 +11,4 @@ Connect with Me :
  
 
 🛠  Tech Stack
-JavaScript  Bootstrap  HTML  CSS  React.js Git  GitHub most used languages
+JavaScript    HTML  CSS  React.js Nodejs Typescript Nextjs Firebase MongoDB  Express 
